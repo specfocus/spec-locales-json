@@ -1,0 +1,15 @@
+module.exports = {
+  "name": "@specfocus/locales",
+  "version": "0.0.1",
+  "description": "Translations",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/specfocus/locales.git"
+  },
+  "scripts": {
+    "test": "node ./json2js"
+  },
+  "author": "Lucas M. Oromi <lucas.oromi@specfocus.com>",
+  "license": "MIT"
+}
